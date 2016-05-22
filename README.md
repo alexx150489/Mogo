@@ -1,2 +1,2 @@
 # Mogo
-Mogo
+landing
