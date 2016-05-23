@@ -1409,7 +1409,7 @@ blockquote {
     display: inline-block;
     vertical-align: top;
     width: 481px;
-    margin-right: 26px;
+    margin-right: 29px;
 }
 
 .info .logo {
@@ -1447,6 +1447,7 @@ blockquote {
     font-size: 18px;
     line-height: 18px;
     font-weight: 700;
+    margin-right: 6px;
 }
 
 .social {
@@ -1580,7 +1581,7 @@ blockquote {
     display: inline-block;
     vertical-align: top;
     margin-top: 10px;
-    margin-right: 73px;
+    margin-right: 70px;
 }
 
 .blogs .blogs-title {
